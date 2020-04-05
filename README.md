@@ -1,2 +1,6 @@
 # myraft
-my raft demo in Java
+
+## generate proto class
+```
+protoc --java_out ./myraft-core/src/main/java/ ./common.proto
+```

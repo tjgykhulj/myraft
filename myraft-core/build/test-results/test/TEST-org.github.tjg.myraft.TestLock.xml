@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.github.tjg.myraft.TestLock" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-04T05:22:44" hostname="arnolddeMBP.lan" time="10.008">
+  <properties/>
+  <testcase name="test" classname="org.github.tjg.myraft.TestLock" time="10.008"/>
+  <system-out><![CDATA[1
+2
+2
+2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
